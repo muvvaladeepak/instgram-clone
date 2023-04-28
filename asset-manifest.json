@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/instgram-clone/static/css/main.f6661d18.css",
+    "main.js": "/instgram-clone/static/js/main.c15e93dd.js",
+    "static/js/400.0b60adab.chunk.js": "/instgram-clone/static/js/400.0b60adab.chunk.js",
+    "static/js/458.27280722.chunk.js": "/instgram-clone/static/js/458.27280722.chunk.js",
+    "static/js/869.30164af2.chunk.js": "/instgram-clone/static/js/869.30164af2.chunk.js",
+    "static/js/577.675b2bbd.chunk.js": "/instgram-clone/static/js/577.675b2bbd.chunk.js",
+    "static/js/934.2a23351a.chunk.js": "/instgram-clone/static/js/934.2a23351a.chunk.js",
+    "static/js/283.7720acc0.chunk.js": "/instgram-clone/static/js/283.7720acc0.chunk.js",
+    "static/js/346.867ba9c0.chunk.js": "/instgram-clone/static/js/346.867ba9c0.chunk.js",
+    "index.html": "/instgram-clone/index.html",
+    "main.f6661d18.css.map": "/instgram-clone/static/css/main.f6661d18.css.map",
+    "main.c15e93dd.js.map": "/instgram-clone/static/js/main.c15e93dd.js.map",
+    "400.0b60adab.chunk.js.map": "/instgram-clone/static/js/400.0b60adab.chunk.js.map",
+    "458.27280722.chunk.js.map": "/instgram-clone/static/js/458.27280722.chunk.js.map",
+    "869.30164af2.chunk.js.map": "/instgram-clone/static/js/869.30164af2.chunk.js.map",
+    "577.675b2bbd.chunk.js.map": "/instgram-clone/static/js/577.675b2bbd.chunk.js.map",
+    "934.2a23351a.chunk.js.map": "/instgram-clone/static/js/934.2a23351a.chunk.js.map",
+    "283.7720acc0.chunk.js.map": "/instgram-clone/static/js/283.7720acc0.chunk.js.map",
+    "346.867ba9c0.chunk.js.map": "/instgram-clone/static/js/346.867ba9c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6661d18.css",
+    "static/js/main.c15e93dd.js"
+  ]
+}
